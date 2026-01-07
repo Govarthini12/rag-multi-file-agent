@@ -1,0 +1,16 @@
+Timestamp,pH,Corrosion_Rate (mpy),ORP (mV),Conductivity (uS/cm),Flow_Rate (gpm),Temperature (°C),Alert_Condition
+2024-11-01 08:00:00,7.44,1.0,382.3,3650.0,95.5,32.3,High Temperature
+2024-11-01 09:00:00,8.88,1.59,251.2,2247.0,90.9,32.7,pH Out of Range; High Temperature
+2024-11-01 10:00:00,8.33,2.67,219.5,3080.0,113.1,25.7,ORP Out of Range
+2024-11-01 11:00:00,8.0,2.22,484.7,3187.0,94.3,28.6,ORP Out of Range
+2024-11-01 12:00:00,6.89,1.53,489.7,1739.0,91.2,26.2,pH Out of Range; ORP Out of Range
+2024-11-01 13:00:00,6.89,3.1,442.5,4878.0,101.7,33.6,pH Out of Range; High Corrosion Rate; High Conductivity; High Temperature
+2024-11-01 14:00:00,6.65,0.78,291.4,4101.0,85.6,31.2,pH Out of Range
+2024-11-01 15:00:00,8.67,1.53,229.3,4758.0,112.1,28.3,pH Out of Range; ORP Out of Range; High Conductivity
+2024-11-01 16:00:00,8.0,1.9,405.3,4579.0,83.0,25.6,High Conductivity; Flow Rate Out of Range
+2024-11-01 17:00:00,8.27,2.33,332.0,3392.0,119.5,28.1,Flow Rate Out of Range
+2024-11-01 18:00:00,6.55,3.95,236.6,4687.0,110.9,28.3,pH Out of Range; High Corrosion Rate; ORP Out of Range; High Conductivity
+2024-11-01 19:00:00,8.92,1.08,348.6,1354.0,87.9,32.3,pH Out of Range; High Temperature
+2024-11-01 20:00:00,8.58,2.62,210.3,1784.0,80.2,31.4,pH Out of Range; ORP Out of Range; Flow Rate Out of Range
+2024-11-01 21:00:00,7.03,3.0,472.8,1181.0,112.6,33.9,ORP Out of Range; High Temperature
+2024-11-01 22:00:00,6.95,0.33,277.6,2301.0,108.3,29.7,pH Out of Range

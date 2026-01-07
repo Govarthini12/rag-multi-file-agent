@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# HuggingFace / Models
+model_cache/
+.cache/
+
+# Vector DB / RAG
+doc_db/
+chroma_db/
+
+# Logs
+logs/
+
+# Env
+.env
