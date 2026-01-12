@@ -16,3 +16,7 @@ logs/
 
 # Env
 .env
+# Ignore chat history
+chat_history/chat_history.json
+
+# Ignore sensitive documents
